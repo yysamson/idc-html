@@ -1,86 +1,58 @@
-ul li {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: inline
-}
-ul{ margin: 0;
-    padding: 0;}
-
-.header-line {
-    border-bottom: 1px #e6e6e6 solid;
-    background-color: #f6f6f6;
-    height: 23px;
-    padding-top: 7px;
-}
-
-.header-menue {
-    height: 96px;
-    background-color: #ffffff
-}
-
-.header-menue-buy {
-    height: 34px;
-    text-align: right;
-    padding-top: 10px;
-}
-
-.header-menue-menue {
-    height: 40px;
-    text-align: center;
-    font-size:15px;
-    padding-top: 12px;
-}
-.aside{
-    height: 230px;
+body {
+    font-family: "微软雅黑";
     background-color: #f4f4f4;
-    margin-top: 15px;
-    border-bottom: 1px #eeeeee solid;
-
+    color: #444;
 }
 
-.main{
-    height: 600px;
-    background-color: #f4f4f4;
-    margin-top: 15px;
-}
-.aside-menue{
-    height: 40px;
-    background-color: #68ad19;
-    border-bottom: 1px #eeeeee solid;
-    font-size: 18px;
-    color: #ffffff;
-    padding-top: 10px;
-
-}
-.aside-list{
-    height:40px;
-    border-bottom: 1px #eeeeee solid;
-    font-size: 16px;
-    text-align: center;
-    padding-top: 10px;
+a {
+    text-decoration: none;
+    color: #222;
 }
 
-.main-title{
-    height: 40px;
-    font-size: 1.5em;
-    padding-top: 10px;
-    text-align: center;
+a:focus, a:hover {
+    color: #69ad19;
 }
 
-.main-date{
-    height: 30px;
-    font-size: 1em;
-    padding-top: 10px;
-    text-align: center;
-    color: #aaaaaa;
-    border-bottom: 1px #eeeeee solid;
+aside, main {
+    background-color: #fff;
 }
 
-.main-content{
+header {
+    margin-bottom: 20px;
+}
+
+header .border-bottom-shadow{
+    display: block;
+    height: 10px;
+    background-image: url(../images/head-bj.jpg);
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #fcfcfc;
+    border-top: 1px #ddd solid;
+    padding: 20px 0 0 0;
+    color: #aaa;
+}
+
+footer a {
+    color: #aaa;
+}
+
+footer .header {
+    font-weight: 900;
     font-size: 1.2em;
-    padding-top: 10px;
-    line-height: 2em;
-    padding-left:20px;
-    padding-right:10px;
+    line-height: 2.5em;
+    padding-left: 20px;
+    margin-left: -20px;
+}
+
+.footer-copy {
+    padding: 20px 0;
+    text-align: center;
+    background-color: #fff;
+}
+
+.b-r {
+    border-right: 1px #ddd solid;
 }

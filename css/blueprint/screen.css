@@ -16,7 +16,6 @@ html {
     margin: 0;
     padding: 0;
     border: 0;
-
 }
 
 body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {
@@ -26,11 +25,7 @@ body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, 
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    font-family: 微软雅黑;
-
 }
-
-
 
 article, aside, details, figcaption, figure, dialog, footer, header, hgroup, menu, nav, section {
     display: block;
@@ -110,7 +105,6 @@ h4 {
     font-size: 1.2em;
     line-height: 1.25;
     margin-bottom: 1.25em;
-    color: #666666;
 }
 
 h5 {
@@ -122,16 +116,6 @@ h5 {
 h6 {
     font-size: 1em;
     font-weight: bold;
-}
-h6 {
-    font-size: 1.2em;
-    font-weight: bold;
-    color: #7db747;
-}
-
-h8 {
-    font-size: 1em;
-    color: #666666;
 }
 
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
