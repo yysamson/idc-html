@@ -37,7 +37,7 @@
                     <li><a>公司产品</a></li>
                 </ul>
             </div>
-            <div class="span-4">
+            <div class="span-4 last">
                 <dl class="map-list-right">
                     <dd><img src="images/hotline.jpg"></dd>
                     <dt>售前支持</dt>
@@ -50,6 +50,7 @@
     </div>
     <div class="footer-copy">
         <p>经营许可证ICP：京B1.B2-20100089 ISO9001国际标准质量体系认证 国家三级信息安会服务认证</p>
+
         <p>Copyright © 2005-2014 三木森网络 All Rights Reserved</p>
     </div>
 </footer>
