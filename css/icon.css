@@ -31,20 +31,3 @@
 .icon-step.active{
     background-image: url(icon/step-1.gif);
 }
-
-.line-manage-1{
-    font-size: 1.2em;
-    margin-left: -20px;
-    color: #666666;
-}
-.line-manage-2{
-    font-size: 1.2em;
-    margin-left: -7px;
-    color: #666666;
-}
-.line-manage-3{
-    font-size: 1.2em;
-    margin-left: 18px;
-    color: #666666;
-
-}

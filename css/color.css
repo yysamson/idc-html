@@ -19,10 +19,11 @@ bg-cl-
     background-color: #fff;
 }
 
+.cl-red {
+    color: #ff0000
+}
+
 .bg-cl-gray-light {
     background-color: #f6f6f6;
 }
 
-.cl-red {
-    color: #ff0000
-}
