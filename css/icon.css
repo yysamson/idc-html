@@ -14,3 +14,32 @@
 .icon-map-list-3{
     background-image: url(icon/map-list-icon-3.jpg);
 }
+
+.icon-line-1{
+    background-image: url(../images/line-1.gif);
+    margin-top: -18px;
+
+
+}
+
+.icon-line-2{
+    background-image: url(../images/line-2.gif);
+    margin-top: -18px;
+}
+
+.line-manage-1{
+    font-size: 1.2em;
+    margin-left: -20px;
+    color: #666666;
+}
+.line-manage-2{
+    font-size: 1.2em;
+    margin-left: -7px;
+    color: #666666;
+}
+.line-manage-3{
+    font-size: 1.2em;
+    margin-left: 18px;
+    color: #666666;
+
+}

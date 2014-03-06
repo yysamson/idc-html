@@ -56,3 +56,45 @@ footer .header {
 .b-r {
     border-right: 1px #ddd solid;
 }
+
+.login{
+    background-color: #ffffff;
+
+}
+.line{
+   border-bottom: 2px #bbbbbb solid;
+   padding-top: 100px;
+   margin: 0 40px;
+   margin-bottom: 100px;
+
+
+}
+
+.icon-line-1 p{
+   margin: 5px 7px 5px 13px;
+   font-size: 1.5em;
+   color: #ffffff;
+   font-weight: 700;
+}
+
+.icon-line-2 p{
+    margin: 5px 5px 5px 10px;
+    font-weight: 700;
+    font-size: 1.5em;
+    color: #ffffff;
+}
+.login-main{
+    border-right: 1px #dddddd solid;
+
+}
+label{
+    margin: 0.5em 0;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: 300;
+    color: #666;
+}
+
+.login-mail{
+    margin-top: 15px;
+}
