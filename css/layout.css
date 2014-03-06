@@ -26,13 +26,14 @@
     margin-left: 1em;
 }
 
-.main-menu a.active{
+.main-menu a.active {
     color: #69ad19;
     border-bottom: 2px #69ad19 solid;
     padding-bottom: 0.3em;
 }
 
-.side-menu-1{
+.side-menu-1,
+.side-menu-2 {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -47,11 +48,13 @@
     border-bottom: 1px #eee solid;
 }
 
-.side-menu-1 a:hover{
+
+
+.side-menu-1 a:hover {
     background-color: #fbfbfb;
 }
 
-.side-menu-1 .header{
+.side-menu-1 .header {
     background-color: #69ad19;
     color: #fff;
     font-size: 1.5em;
@@ -59,44 +62,62 @@
     padding: 0.5em 1.5em;
 }
 
-.article{
+.side-menu-2 a{
+    text-align: left;
+    display: block;
+    font-size: 1em;
+    line-height: 2.5em;
+    border-bottom: 1px #eee solid;
+}
+
+.side-menu-2 .header {
+    /*background-color: #69ad19;*/
+    /*color: #fff;*/
+    font-size: 1.5em;
+    text-align: left;
+    padding: 0.3em 0;
+    border-bottom: 2px #69ad19 solid;
+    margin-bottom: 5px;
+}
+
+.article {
     margin: 20px;
 }
 
-.article .article-header{
+.article .article-header {
     text-align: center;
     border-bottom: 1px #ddd solid;
     padding-bottom: 20px;
 }
 
-.article h1{
+.article h1 {
     font-size: 2em;
     line-height: 2.5em;
 }
 
-.article .title-span span{
+.article .title-span span {
     color: #aaa;
     margin: 0 0.5em;
 }
 
-.article .article-body{
+.article .article-body {
     margin: 20px 0;
 }
 
-.article .article-body p{
+.article .article-body p {
     text-indent: 2em;
     line-height: 2em;
     font-size: 1.2em;
 }
 
-.map-list{
+.map-list {
     margin: 0 auto;
     display: block;
     width: 90px;
     list-style: none;
 }
 
-.map-list-right{
+.map-list-right {
     margin: 0 auto;
     display: block;
     list-style: none;
@@ -104,18 +125,38 @@
     margin-right: 0;
 }
 
-.map-list-right dt{
+.map-list-right dt {
     color: #69ad19;
     font-weight: 900;
 }
 
-.map-list-right dd{
+.map-list-right dd {
     margin-left: 0;
     margin-right: 0;
     white-space: nowrap;
 }
 
-.map-list a{
+.map-list a {
     display: block;
     line-height: 2em;
+}
+
+.step-nav {
+    margin: 0 auto;
+    /*background-color: #ccc;*/
+    float: none;
+    border-bottom: 2px #bbbbbb solid;
+    padding-top: 60px;
+    margin-bottom: 80px;
+}
+
+.step-item {
+    font-size: 1.2em;
+    margin-bottom: -38px;
+    text-align: center;
+}
+
+.register {
+    margin: 0 auto;
+    float: none;
 }

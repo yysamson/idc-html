@@ -3,6 +3,11 @@
     background-position: left center;
 }
 
+.icon-top{
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
 .icon-map-list-1{
     background-image: url(icon/map-list-icon-1.jpg);
 }
@@ -15,16 +20,16 @@
     background-image: url(icon/map-list-icon-3.jpg);
 }
 
-.icon-line-1{
-    background-image: url(../images/line-1.gif);
-    margin-top: -18px;
-
-
+.icon-step{
+    background-image: url(icon/step-2.gif);
+    color: #fff;
+    font-weight: 900;
+    line-height: 36px;
+    display: block;
 }
 
-.icon-line-2{
-    background-image: url(../images/line-2.gif);
-    margin-top: -18px;
+.icon-step.active{
+    background-image: url(icon/step-1.gif);
 }
 
 .line-manage-1{

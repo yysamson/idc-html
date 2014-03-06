@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="/css/color.css" type="text/css">
     <link rel="stylesheet" href="/css/base.css" type="text/css">
     <link rel="stylesheet" href="/css/icon.css" type="text/css">
+    <link rel="stylesheet" href="/css/form.css" type="text/css">
+    <link rel="stylesheet" href="/css/buttons.css" type="text/css">
 
     <script src="js/jquery-1.11.0.min.js"></script>
     <!--[if lt IE 8]>

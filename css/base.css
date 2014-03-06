@@ -15,6 +15,7 @@ a:focus, a:hover {
 
 aside, main {
     background-color: #fff;
+    margin-bottom: 20px;
 }
 
 header {
@@ -33,6 +34,7 @@ footer {
     border-top: 1px #ddd solid;
     padding: 20px 0 0 0;
     color: #aaa;
+    clear: both;
 }
 
 footer a {
@@ -55,6 +57,10 @@ footer .header {
 
 .b-r {
     border-right: 1px #ddd solid;
+}
+
+.text-center{
+    text-align: center;
 }
 
 .login{

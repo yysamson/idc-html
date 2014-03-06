@@ -1,1 +1,17 @@
 /* fm- */
+.fm-row{
+    font-size: 1em;
+}
+
+.fm-row label{
+    text-align: right;
+}
+
+.fm-row input
+{
+    line-height: 2em;
+}
+
+.fm-row .err{
+
+}

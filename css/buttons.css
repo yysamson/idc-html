@@ -1,1 +1,25 @@
 /* btn- */
+
+.btn{
+    font-family: "微软雅黑";;
+    background-color: #69ad19;
+    border: 0;
+    color: #fff;
+    line-height: 2em;
+    font-size: 1.6em;
+    padding: 0 1em;
+    display: inline-block;
+    text-align: center;
+}
+
+.btn.large{
+    font-size: 1.6em;
+}
+
+.btn.small{
+
+}
+
+a.btn:hover{
+    color: #fff;
+}
