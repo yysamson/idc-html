@@ -79,3 +79,30 @@ footer .header {
     line-height:40px;
     border-bottom: 1px #e9e7e7 solid;
 }
+
+table{
+    table-layout:fixed;
+    empty-cells:show;
+    border-collapse: collapse;
+    margin:0 auto;
+}
+td{
+    height:40px;
+}
+
+table.tab_css_1{
+    border:1px solid #cad9ea;
+    color:#666;
+}
+table.tab_css_1 th {
+    background-color: #e4e4e4;
+    text-align: center;
+    height:40px;
+}
+table.tab_css_1 td,table.tab_css_1 th{
+    border:1px #ddd solid ;
+    padding:0 1em 0;
+}
+table.tab_css_1 tr.tr_css{
+    background-color:#efefef;
+}

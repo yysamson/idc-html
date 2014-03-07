@@ -225,3 +225,15 @@ select{
 .gouwuche{
     margin-top: 15px;
 }
+
+
+
+
+#tabs-2 ul{
+    line-height: 2em;
+    list-style: none;
+}
+
+#tabs{
+    margin-bottom: 30px;
+}
