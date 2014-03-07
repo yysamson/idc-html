@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="/css/jquery-ui-1.10.4.custom.min.css" type="text/css">
     <link rel="stylesheet" href="/css/layout.css" type="text/css">
     <link rel="stylesheet" href="/css/color.css" type="text/css">
     <link rel="stylesheet" href="/css/base.css" type="text/css">
@@ -12,6 +13,8 @@
     <link rel="stylesheet" href="/css/buttons.css" type="text/css">
 
     <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/jquery-ui-1.10.4.custom.min.js"></script>
+
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection">
     <![endif]-->
