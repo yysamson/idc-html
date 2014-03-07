@@ -185,13 +185,14 @@
 
 }
 input.chaxun-input-1{
-    line-height: 3em;
+    /*line-height: 3em;*/
     margin: 10px 17px;
+    padding: 1em 0.5em;
 }
 button.tijiao{
     margin-top: 10px;
     padding: 2px 1em;
-    line-height: 40px;
+    line-height: 39px;
     font-size: 1.5em;
 }
 

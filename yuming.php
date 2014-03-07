@@ -121,7 +121,7 @@
                         <li><a href="#tabs-2">常见问题</a></li>
                     </ul>
                     <div id="tabs-1">
-                        <table width="100%" id="mytab"  border="1" class="tab_css_1">
+                        <table width="100%" id="mytab" border="1" class="tab_css_1">
                             <thead>
                             <th width="50%">域名注册</th>
                             <th width="50%">价格</th>
@@ -137,7 +137,7 @@
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr  class="tr_css">
+                            <tr class="tr_css">
                                 <td></td>
                                 <td></td>
                             </tr>
@@ -145,7 +145,7 @@
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr  class="tr_css">
+                            <tr class="tr_css">
                                 <td></td>
                                 <td></td>
                             </tr>
@@ -153,7 +153,7 @@
                                 <td></td>
                                 <td></td>
                             </tr>
-                            <tr  class="tr_css">
+                            <tr class="tr_css">
                                 <td></td>
                                 <td></td>
                             </tr>
@@ -175,11 +175,14 @@
                     <div id="tabs-2">
 
                         <ul>
-                           <li>1、以个人和公司名义不可以申请GOV.CN域名；</li>
-                           <li> 2、域名注册服务机构协助用户注册GOV.CN域名，需同时传真注册申请表及机关法人代码证等相关材料至CNNIC，材料要求：</li>
+                            <li>1、以个人和公司名义不可以申请GOV.CN域名；</li>
+                            <li> 2、域名注册服务机构协助用户注册GOV.CN域名，需同时传真注册申请表及机关法人代码证等相关材料至CNNIC，材料要求：</li>
                             <li>(1)域名注册申请表注册者必须为政府机构，且注册者名称需与公章一致；</li>
-                            <li>(2)除经过法律法规授权其具有行政管理职能的事业单位可以注册GOV域名外，其他事业单位有使用GOV域名的特定需求，可由上级机关单位注册后授权该事业单位使用，而不能直接注册；</li>
-                            <li>3、请在注册GOV.CN域名前，先从网站上下载并填写《GOV.CN域名及预留域名注册申请表》(点击下载)。将加盖公章后的《GOV.CN域名及预留域名注册申请表》和加盖公章的机关法人代码证</li>
+                            <li>(2)除经过法律法规授权其具有行政管理职能的事业单位可以注册GOV域名外，其他事业单位有使用GOV域名的特定需求，可由上级机关单位注册后授权该事业单位使用，而不能直接注册；
+                            </li>
+                            <li>
+                                3、请在注册GOV.CN域名前，先从网站上下载并填写《GOV.CN域名及预留域名注册申请表》(点击下载)。将加盖公章后的《GOV.CN域名及预留域名注册申请表》和加盖公章的机关法人代码证
+                            </li>
                         </ul>
 
                     </div>
@@ -189,8 +192,8 @@
         </main>
     </div>
     <script>
-        $(function() {
-            $( "#tabs" ).tabs();
+        $(function () {
+            $("#tabs").tabs();
         });
     </script>
 <?php include 'footer.php' ?>
