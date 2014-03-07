@@ -31,3 +31,11 @@
 .icon-step.active{
     background-image: url(icon/step-1.gif);
 }
+.icon-side-menu{
+    background-image:url(icon/icon-side-menu.gif);
+
+}
+
+.icon-sousuo{
+    background-image:url(icon/sousuo.gif);
+}

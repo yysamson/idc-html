@@ -63,3 +63,19 @@ footer .header {
     text-align: center;
 }
 
+.chaxun-jg{
+    border: 1px #dbdbdb solid;
+    background-repeat: repeat-x;
+    background-image: url(icon/chaxun.gif);
+}
+
+
+.sousuo{
+    padding-left: 25px;
+    font-size: 1.3em;
+}
+
+.sousuo-1{
+    line-height:40px;
+    border-bottom: 1px #e9e7e7 solid;
+}

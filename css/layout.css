@@ -160,3 +160,70 @@
     margin: 0 auto;
     /*float: none;*/
 }
+
+.chaxun{
+    padding-top: 50px;
+}
+.e-chaxun{
+    background-color: #dbdbdb;
+    padding: 10px 20px 3px 20px;
+    font-size: 1.2em;
+    font-weight: 900;
+    color: #000;
+}
+
+.c-chaxun{
+    font-size: 1.2em;
+    margin-left: 10px;
+
+}
+.jiage{
+    font-size: 1.3em;
+}
+.chaxun-input{
+   background-color: #dbdbdb;
+
+}
+input.chaxun-input-1{
+    line-height: 3em;
+    margin: 10px 17px;
+}
+button.tijiao{
+    margin-top: 10px;
+    line-height: 40px;
+    border: 0;
+    background-color:#68ad19;
+    color:#ffffff;
+    font-size: 1.5em;
+    font-family: 微软雅黑;
+}
+
+.remen{
+    margin-top: 20px;
+}
+
+.chaxun-remen{
+    font-size: 1.2em;
+}
+
+.chaxun-1{
+    margin-top: 8px;
+
+
+}
+
+.chaxun-jg-1{
+    margin:10px 20px 10px 20px;
+}
+
+select{
+    margin-top: 13px;
+}
+
+.quanxuan{
+    margin-top: 10px;
+}
+
+.gouwuche{
+    margin-top: 15px;
+}
