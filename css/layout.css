@@ -190,20 +190,18 @@ input.chaxun-input-1{
 }
 button.tijiao{
     margin-top: 10px;
+    padding: 2px 1em;
     line-height: 40px;
-    border: 0;
-    background-color:#68ad19;
-    color:#ffffff;
     font-size: 1.5em;
-    font-family: 微软雅黑;
 }
 
 .remen{
-    margin-top: 20px;
+    margin: 20px 0;
 }
 
 .chaxun-remen{
     font-size: 1.2em;
+    margin-top: 8px;
 }
 
 .chaxun-1{
