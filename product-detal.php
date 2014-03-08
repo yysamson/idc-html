@@ -30,7 +30,7 @@
             </ul>
         </div>
 
-        <div class="span-19">
+        <div class="span-18">
             <div class="span-6 product-border ">
                         <span class="product-content-name span-6">
                             <ul>
@@ -86,7 +86,7 @@
             </div>
 
 
-            <div class="span-6 product-border ">
+            <div class="span-6 product-border last ">
                         <span class="product-content-name span-6">
                             <ul>
                                 <li>三木森入门型</li>
@@ -113,7 +113,7 @@
                         </span>
             </div>
 
-            <div class="span-6 product-border last ">
+            <div class="span-6 product-border">
                         <span class="product-content-name span-6">
                             <ul>
                                 <li>三木森入门型</li>
@@ -204,7 +204,7 @@
                         </span>
             </div>
 
-            <div class="span-6 product-border ">
+            <div class="span-6 product-border last ">
                         <span class="product-content-name span-6">
                             <ul>
                                 <li>三木森入门型</li>
