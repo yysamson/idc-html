@@ -30,7 +30,7 @@
             </ul>
         </div>
 
-        <div class="span-18">
+        <div class="span-19">
             <div class="span-6 product-border ">
                         <span class="product-content-name span-6">
                             <ul>
