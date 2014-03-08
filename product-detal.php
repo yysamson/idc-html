@@ -1,18 +1,18 @@
 <?php include 'header.php' ?>
 
-<div class="container">
+    <div class="container">
     <main class="span-19 ">
         <div class="xiangqing span-19">
 
-                <span class="xiangqing-name span-18"> 商务II型</span>
+            <span class="xiangqing-name span-18"> 商务II型</span>
                 <span class="xiangqing-content span-18">
                     <span class="span-3"><img src="images/pic.jpg"/></span>
                     <span class="span-15 last xiangqing-shuoming ">
                         <ul>
-                            <li> 操作系统：  Windows（2008）/Linux（Aliyun Linux 64位）</li>
-                            <li>  支持语言：  ASP、ASP.NET1.0/2.0/3.5/4.0、PHP4/5、HTML、WAP、Perl5、独立cgi-bin</li>
-                            <li> 数据库：  ACCESS（50M）、SQL Server2008（150M）、MySQL 5.0.77（150M）</li>
-                            <li>  独立网页空间：  1.5G（含数据库空间)</li>
+                            <li> 操作系统： Windows（2008）/Linux（Aliyun Linux 64位）</li>
+                            <li> 支持语言： ASP、ASP.NET1.0/2.0/3.5/4.0、PHP4/5、HTML、WAP、Perl5、独立cgi-bin</li>
+                            <li> 数据库： ACCESS（50M）、SQL Server2008（150M）、MySQL 5.0.77（150M）</li>
+                            <li> 独立网页空间： 1.5G（含数据库空间)</li>
                             <li><a class="cl-blue-light">查看详细></a></li>
                             <select class="span-4 xiangqing-jiage cl-red">
                                 <option>1年48.00元</option>
@@ -35,7 +35,9 @@
                 <span class="span-19">
 
                     <span class="span-6 product-border ">
-                        <span class="product-content-name span-6"><ul><li>三木森入门型</li></ul></span>
+                        <span class="product-content-name span-6"><ul>
+                                <li>三木森入门型</li>
+                            </ul></span>
                         <span class="product-content-contene">
                             <ul>
                                 <li>总空间200~300M</li>
@@ -58,7 +60,9 @@
                     </span>
 
                       <span class="span-6 product-border ">
-                        <span class="product-content-name span-6"><ul><li>三木森入门型</li></ul></span>
+                        <span class="product-content-name span-6"><ul>
+                                <li>三木森入门型</li>
+                            </ul></span>
                         <span class="product-content-contene">
                             <ul>
                                 <li>总空间200~300M</li>
@@ -81,7 +85,9 @@
                     </span>
 
                      <span class="span-6 product-border ">
-                        <span class="product-content-name span-6"><ul><li>三木森入门型</li></ul></span>
+                        <span class="product-content-name span-6"><ul>
+                                <li>三木森入门型</li>
+                            </ul></span>
                         <span class="product-content-contene">
                             <ul>
                                 <li>总空间200~300M</li>
@@ -114,7 +120,9 @@
                 <span class="span-19">
 
                     <span class="span-6 product-border ">
-                        <span class="product-content-name span-6"><ul><li>三木森入门型</li></ul></span>
+                        <span class="product-content-name span-6"><ul>
+                                <li>三木森入门型</li>
+                            </ul></span>
                         <span class="product-content-contene">
                             <ul>
                                 <li>总空间200~300M</li>
@@ -137,7 +145,9 @@
                     </span>
 
                       <span class="span-6 product-border ">
-                        <span class="product-content-name span-6"><ul><li>三木森入门型</li></ul></span>
+                        <span class="product-content-name span-6"><ul>
+                                <li>三木森入门型</li>
+                            </ul></span>
                         <span class="product-content-contene">
                             <ul>
                                 <li>总空间200~300M</li>
@@ -160,7 +170,9 @@
                     </span>
 
                      <span class="span-6 product-border ">
-                        <span class="product-content-name span-6"><ul><li>三木森入门型</li></ul></span>
+                        <span class="product-content-name span-6"><ul>
+                                <li>三木森入门型</li>
+                            </ul></span>
                         <span class="product-content-contene">
                             <ul>
                                 <li>总空间200~300M</li>
@@ -209,5 +221,5 @@
         </div>
     </aside>
 
-</div>
+    </div>
 <?php include 'footer.php' ?>
