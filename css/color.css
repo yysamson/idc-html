@@ -10,6 +10,9 @@ bg-cl-
 .cl-black {
     color: #000
 }
+.cl-gray-light{
+    color: #666;
+}
 
 .cl-red {
     color: #ff0000

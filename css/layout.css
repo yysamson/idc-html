@@ -199,7 +199,6 @@ button.tijiao{
 .remen{
     margin: 20px 0;
 }
-
 .chaxun-remen{
     font-size: 1.2em;
     margin-top: 8px;
@@ -207,7 +206,6 @@ button.tijiao{
 
 .chaxun-1{
     margin-top: 8px;
-
 
 }
 
@@ -227,9 +225,6 @@ select{
     margin-top: 15px;
 }
 
-
-
-
 #tabs-2 ul{
     line-height: 2em;
     list-style: none;
@@ -237,4 +232,82 @@ select{
 
 #tabs{
     margin-bottom: 30px;
+}
+.xiangqing{
+    margin: 20px 20px;
+}
+
+.xiangqing-name{
+    font-size: 2.2em;
+    font-weight: 900;
+}
+.xiangqing-content{
+    padding-top: 15px;
+}
+
+.xiangqing-shuoming ul{
+    list-style: none;
+    line-height: 2em;
+}
+.xiangqing-jiage{
+    font-size: 1.6em;
+    font-family: 微软雅黑;
+    padding:5px 10px;
+}
+.xiangqing-buy{
+    margin-top: 13px;
+}
+
+.xiangqiang-product{
+    margin: 20px 0 20px 0;
+}
+
+.product-name{
+    border-bottom: 4px #dbdbdb solid;
+}
+.product-name ul{
+    list-style: none;
+    font-size: 1.5em;
+    margin: 0;
+    line-height: 2em;
+}
+
+.product-border{
+   border: 1px #e6e6e6 solid;
+    padding-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.product-content-name{
+    border-left:3px #68ad19 solid ;
+    margin-top: 10px;
+}
+.product-content-name ul{
+    margin: 0;
+}
+.product-content-name ul li{
+    font-size: 1.5em;
+    margin: 0;
+    list-style: none;
+    font-weight: 900;
+}
+.product-content-contene ul{
+    margin: 0;
+}
+.product-content-contene ul li{
+    list-style: none;
+    line-height: 2.2em;
+}
+.product-price{
+   text-align: center;
+}
+.product-price1{
+    font-size: 2em;
+}
+.product-price2{
+    font-size: 1.5em;
+}
+.aside-help{
+    padding-left: 20px;
 }
