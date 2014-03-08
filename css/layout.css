@@ -246,6 +246,12 @@ select{
 }
 
 .xiangqing-shuoming ul{
+    margin: 0;
+    padding: 0;
+
+}
+.xiangqing-shuoming ul li{
+    margin: 0;
     list-style: none;
     line-height: 2em;
 }
@@ -276,6 +282,8 @@ select{
    border: 1px #e6e6e6 solid;
     padding-bottom: 20px;
     margin-top: 20px;
+    width: 224px;
+    display: block;
 
 }
 
