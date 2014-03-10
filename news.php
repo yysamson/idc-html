@@ -12,9 +12,9 @@
         <main class="span-18 last">
             <article class="article news-maim clearfix">
                 <div class="news-name span-17">
-                    <span class="news-name-title span-17">
-                       <ul><li>新闻公告</li></ul>
-                    </span>
+                    <h1 class="news-name-title span-17">
+                       新闻公告
+                    </h1>
                 </div>
 
                 <div class="news-body span-17">

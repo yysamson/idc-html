@@ -323,22 +323,14 @@ select{
 .news-name{
     border-bottom: 2px #e6e6e6 solid;
 }
-.news-name-title{
+h1.news-name-title{
     border-left: 3px #68ad19 solid;
-    margin-bottom: 10px;
-}
-.news-name-title ul{
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-.news-name-title ul li{
-    padding: 0;
-    margin: 0;
-    font-size: 2.1em;
     padding-left: 10px;
-    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 1em;
+
 }
+
 
 .news-body{
     margin-top: 1em;
