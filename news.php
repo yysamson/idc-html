@@ -10,7 +10,7 @@
             </ul>
         </aside>
         <main class="span-18 last">
-            <article class="article news-maim span-18">
+            <article class="article news-maim clearfix">
                 <div class="news-name span-17">
                     <span class="news-name-title span-17">
                        <ul><li>新闻公告</li></ul>
