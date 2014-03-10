@@ -320,18 +320,6 @@ select{
     padding-left: 20px;
 }
 
-.daohang ul{
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-
-.daohang ul li{
-    padding-left:20px;
-    line-height: 2em;
-    margin: 0;
-    font-size: 1.5em;
-}
 .news-name{
     border-bottom: 2px #e6e6e6 solid;
 }
@@ -393,4 +381,3 @@ select{
 
 .news-maim{
     padding-bottom: 20px;
-}
