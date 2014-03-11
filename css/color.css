@@ -17,6 +17,9 @@ bg-cl-
 .cl-red {
     color: #ff0000
 }
+.cl-orange{
+    color: #ff6600;
+}
 
 .cl-blue-light {
     color: #3692d2;
@@ -37,3 +40,4 @@ bg-cl-
 .cl-green{
     color: #008000;
 }
+

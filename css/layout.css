@@ -237,9 +237,9 @@ select{
     margin: 20px 20px;
 }
 
-.xiangqing-name{
-    font-size: 2.2em;
-    font-weight: 900;
+.xiangqing-name {
+   border-left: 5px #68ad19 solid;
+   margin: 0;
 }
 .xiangqing-content{
     padding-top: 15px;
@@ -323,7 +323,7 @@ select{
 .news-name{
     border-bottom: 2px #e6e6e6 solid;
 }
-h1.news-name-title{
+h1,h2.news-name-title{
     border-left: 3px #68ad19 solid;
     padding-left: 10px;
     margin-bottom: 10px;
@@ -372,4 +372,160 @@ h1.news-name-title{
 .news-maim{
     padding-bottom: 20px;
 }
+.mail-shuoming ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.mail-shuoming ul li{
+    float: left !important;
+    width: 200px;
+    margin: 0 2em 0 0;
+    padding: 0 0 0 1.5em;
+    font-size: 1.1em;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-image: url(icon/icon-gou.jpg);
+}
+.mail-title{
+    border: 1px #d8d8d8 solid;
+    margin-top: 15px;
+}
 
+.mail-title ul li{
+    line-height: 2.5em;
+    padding-left: 10px;
+    font-size: 1.2em;
+}
+.mail-size{
+    margin-top: 20px;
+}
+
+.mail-size-size{
+    border: 1px #d8d8d8 solid;
+    background-color: #fafafa;
+    padding: 10px;
+}
+.mail-size-size1{
+    font-size: 1.1em;
+    font-weight: 900;
+    text-align:right;
+
+}
+
+#slider{
+    padding: 0;
+    margin: 0;
+    height: 20px;
+}
+#slider a{
+    height: 28px;
+    width: 35px;
+
+}
+
+#slider1{
+    padding: 0;
+    margin: 0;
+    height: 20px;
+}
+#slider1 a{
+    height: 28px;
+    width: 35px;
+
+}
+
+.mail-size-size2{
+    text-align: center;
+    border: 1px #ccc solid;
+    margin-left: 10px;
+    font-size: 1.2em;
+    color: #ff6600;
+
+}
+
+.mail-size-size3{
+    text-align: left;
+    padding-top: 10px;
+    color: #999999;
+}
+
+.mail-size-size4{
+    text-align: right;
+    padding-top: 10px;
+    color: #999999;
+}
+
+.mail-size-rong{
+    margin-top: 10px;
+}
+.mail-xuanze{
+    font-size: 1.2em;
+}
+
+.mail-yuming{
+    line-height: 2.7em;
+    text-align: right;
+}
+
+.mail-nianxian{
+    border: 1px #d7d7d7 solid;
+    text-align: center;
+    line-height: 2em;
+}
+.mail-nianxian:hover{
+    border: 1px #ffa70a solid;
+    background-color: #fef2de;
+}
+.mail-goumai{
+    margin: 10px 0;
+    line-height: 2.8em;
+}
+.mail-price{
+    margin-top: 50px;
+    text-align: center;
+}
+.mail-price h2{
+    margin: 0;
+    padding: 0;
+}
+
+.mail-price1{
+    line-height: 2em;
+    font-size: 1.3em;
+}
+
+.mail-buy{
+    margin-top: 30px;
+    padding-left:30px;
+}
+.mail-peizhi{
+    margin-top: 20px;
+}
+
+#green .ui-slider-range { background: #ffa900; }
+#green .ui-slider-handle { border-color: #ccc; }
+#green{
+    float: left;
+    clear: left;
+    height: 1.8em;
+}
+#green a{
+    height: 2.2em;
+}
+
+.mail-peizhi-tr td{
+    border-bottom: 1px #e7e7e7 solid;
+}
+.mail-peizhi-td{
+    border-right: 1px #e7e7e7 solid;
+    background-color: #fafafa;
+    font-size: 1.3em;
+    color: #000;
+    font-weight: 900;
+    text-align: right;
+}
+.mail-peizhi-td1{
+    font-size: 1.2em;
+    text-align: left;
+}

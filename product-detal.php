@@ -2,7 +2,7 @@
     <div class="container">
     <main class="span-19 ">
     <div class="xiangqing span-18">
-    <div class="xiangqing-name span-18"> 商务II型</div>
+    <div class="span-18"> <h2 class="news-name-title">商务II型</h2></div>
     <div class="xiangqing-content span-18">
         <div class="span-3"><img src="images/pic.jpg"/></div>
         <div class="span-15 last xiangqing-shuoming ">
@@ -263,7 +263,8 @@
     </div>
     </main>
 
-    <aside class="span-5 last">
+    <div class="span-5 last">
+    <aside class="span-5">
         <div class="aside-help span-4">
             <ul class="side-menu-2">
                 <li class="header">新闻公告</li>
@@ -274,7 +275,7 @@
             </ul>
         </div>
     </aside>
-    <aside class="span-5 last">
+    <aside class="span-5">
         <div class="aside-help span-4">
             <ul class="side-menu-2">
                 <li class="header">新闻公告</li>
@@ -285,5 +286,6 @@
             </ul>
         </div>
     </aside>
+    </div>
     </div>
 <?php include 'footer.php' ?>
