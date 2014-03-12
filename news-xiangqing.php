@@ -12,7 +12,7 @@
         <main class="span-18 last">
             <article class="article">
                 <div class="article-header">
-                    <h1>新闻标题</h1>
+                    <h3>新闻标题</h3>
 
                     <div class="title-span">
                         <span>作者：客服中心</span>
