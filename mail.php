@@ -42,13 +42,13 @@
                       <span class="span-2 mail-size-size2">18G</span>
                   </div>
                   <div class="span-12 mail-size-rong">
-                      <span class="span-2  mail-size-size1">用户数：</span>
+                      <span class="span-2  mail-size-size1">购买年限：</span>
                       <div class="span-7">
                           <div id="green" class="span-7 last"></div>
-                          <div class="span-3 mail-size-size3">5个</div>
-                          <div class="span-4 last mail-size-size4">500个</div>
+                          <div class="span-3 mail-size-size3">1年</div>
+                          <div class="span-4 last mail-size-size4">10年</div>
                       </div>
-                      <span class="span-2 mail-size-size2">185用户</span>
+                      <span class="span-2 mail-size-size2">5年</span>
                       <span class="span-10 prepend-2 mail-xuanze">当前选择：<span class="cl-orange">5</span>用户(<span class="cl-orange">5</span>用户起售，以<span class="cl-orange">5</span>用户为步长增加)<span class="cl-orange">18</span>容量</span>
                   </div>
 
@@ -58,12 +58,6 @@
                   <span class="span-3 last mail-yuming">请输入邮箱绑定域名</span>
                  </div>
 
-                  <div class="span-12 mail-goumai">
-                      <span class="span-2 mail-size-size1">购买年限：</span>
-                      <span class="span-10 last">
-                         <input class="span-2" type="text"><span class="span-1 mail-size-size1">年</span>
-                      </span>
-                  </div>
               </div>
 
               <div class="span-5 last">
