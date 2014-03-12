@@ -8,6 +8,7 @@
             <li><a href="product-detal.php" target="_blank">产品展示页面</a></li>
             <li><a href="product-show.php" target="_blank">产品详情页面</a></li>
             <li><a href="mail.php" target="_blank">邮箱产品首页</a></li>
+            <li><a href="user.php" target="_blank">用户中心首页</a></li>
         </ul>
     </div>
 <?php include 'footer.php' ?>
