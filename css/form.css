@@ -1,6 +1,7 @@
 /* fm- */
 .fm-row{
     font-size: 1em;
+    padding-top: 5px;
 }
 
 .fm-row label{
@@ -17,7 +18,7 @@
 .fm-row input
 {
     /*line-height: 2em;*/
-    padding: 0.5em 0.3em;
+    padding: 0.3em 0.3em;
 }
 
 .fm-row .err{
