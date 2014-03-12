@@ -10,6 +10,7 @@
             <li><a href="mail.php" target="_blank">邮箱产品首页</a></li>
             <li><a href="user.php" target="_blank">用户中心首页</a></li>
             <li><a href="user-ziliao.php" target="_blank">个人资料</a></li>
+            <li><a href="dingdanguanli.php" target="_blank">订单管理</a></li>
         </ul>
     </div>
 <?php include 'footer.php' ?>

@@ -588,18 +588,29 @@ h1,h2.news-name-title{
     font-size: 1.2em;
     font-weight: 900;
 }
+.yuming-cp{
+    padding-bottom: 35px;
+}
+.yuming-cp1{
+    margin-top: 20px;
+}
+.yuming-cp h2{
+    font-size: 1.2em;
+    font-weight: 900;
+    line-height: 2em;
+}
 .user-yuming{
     border-top: 2px #68ad19 solid;
 
 }
 .user-yuming td{
     height: 2em;
-    text-align: left;
+    text-align: center;
     padding-left: 10px;
 }
 .user-yuming th {
     background-color: #f7f7f7;
-    text-align: left;
+    text-align: center;
     font-weight: 100;
     font-size: 1.2em;
     height: 2em;
@@ -608,4 +619,22 @@ h1,h2.news-name-title{
 
 .user-ziliao-xiugai{
     margin-top: 50px;
+}
+.dingdanchaxun{
+    padding: 35px;
+}
+
+.dingdanzhuangtai{
+    line-height: 3em;
+    font-size: 1.2em;
+}
+
+.xiadan-time{
+    padding-top: 25px;
+    font-size: 1.2em;
+}
+
+.dingdan-chaxun{
+    margin: 20px 0;
+    text-align: center;
 }
