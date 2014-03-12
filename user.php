@@ -3,13 +3,13 @@
         <aside class="span-6">
             <ul class="side-menu-1">
                 <li class="header">用户中心</li>
-                <li><a>域名注册</a></li>
-                <li><a>虚拟主机</a></li>
-                <li><a>企业邮箱</a></li>
-                <li><a>成品网站</a></li>
-                <li><a>云VPS主机</a></li>
-                <li><a>数据库产品</a></li>
-                <li><a>租用托管</a></li>
+                <li><a>域名管理</a></li>
+                <li><a>虚拟主机管理</a></li>
+                <li><a>邮箱管理</a></li>
+                <li><a>云VPS管理</a></li>
+                <li><a>订单管理</a></li>
+                <li><a>用户资料</a></li>
+                <li><a>安全退出</a></li>
             </ul>
         </aside>
         <div class="span-18 last">
