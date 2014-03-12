@@ -6,6 +6,7 @@
             <li><a href="yuming.php" target="_blank">域名查询页面</a></li>
             <li><a href="register.php" target="_blank">会员登录页面</a></li>
             <li><a href="product-detal.php" target="_blank">产品展示页面</a></li>
+            <li><a href="product-show.php" target="_blank">产品详情页面</a></li>
             <li><a href="mail.php" target="_blank">邮箱产品首页</a></li>
         </ul>
     </div>

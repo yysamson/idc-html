@@ -233,6 +233,33 @@ select{
 #tabs{
     margin-bottom: 30px;
 }
+
+#tabs-2 ul{
+    padding: 0;
+    margin: 0;
+}
+#tabs-3 ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+
+#tabs-3 ul li{
+    line-height: 2em;
+}
+
+
+#tabs-4 ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+
+#tabs-4 ul li{
+    line-height: 2em;
+}
 .xiangqing{
     margin: 20px 20px;
 }
@@ -513,4 +540,43 @@ h1,h2.news-name-title{
 #green a{
     height: 2.2em;
 }
+.product-shuoming{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
 
+.product-shuoming ul{
+    padding: 0;
+    margin: 0;
+}
+
+.product-shuoming ul li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    line-height: 2.2em;
+    font-size: 1.1em;
+}
+.product-shuoming dl{
+    line-height: 2.2em;
+}
+.product-shuoming dt{
+    font-size: 1.1em;
+}
+.product-shuoming dd{
+    margin: 0;
+    font-size: 1.1em;
+}
+
+.product-shuoming select{
+    padding: 0;
+    margin: 0;
+}
+.tr_css-td{
+    color: #000;
+    font-weight: 900;
+    text-align: left;
+}
+.tr_css-td1{
+    text-align: left;
+}
