@@ -683,3 +683,35 @@ h1,h2.news-name-title{
 .yuming-td2 tr td{
     height: 1.5em;
 }
+
+.zaixian-help{
+    padding-top: 30px;
+}
+
+.help-menue{
+    border-bottom: 3px #e6e6e6 solid;
+    line-height: 3em;
+}
+.help-menue-title{
+    background-color: #e6e6e6;
+    font-size: 1.5em;
+    text-align: center;
+
+}
+
+.help-menue-content{
+    border-bottom: dotted 1px #e6e6e6;
+    padding-top: 15px;
+
+}
+.help-menue-content-title{
+    font-size: 1.3em;
+    font-weight: 900;
+}
+.help-menue-content-title1{
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+.help-menue-content-title1 a{
+   margin-right: 20px;
+}

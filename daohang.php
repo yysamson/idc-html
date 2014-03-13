@@ -14,6 +14,7 @@
             <li><a href="shenqing.php" target="_blank">申请成为代理</a></li>
             <li><a href="yumingguanli.php" target="_blank">域名订单管理</a></li>
             <li><a href="zhujiguanli.php" target="_blank">主机管理</a></li>
+            <li><a href="zaixianbangzhu.php" target="_blank">在线帮助</a></li>
         </ul>
     </div>
 <?php include 'footer.php' ?>
