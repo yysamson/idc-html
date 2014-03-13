@@ -29,8 +29,8 @@
                <div class="span-16 chaxun-jg-1">
                    <span class="sousuo icon icon-sousuo span-14 last">订单查询</span>
                    <span class="span-14 last xiadan-time">
-                       <span class="span-2">下单时间：</span>
-                       <span class="span-9">
+                       <span class="span-3">下单时间：</span>
+                       <span class="span-9 last">
                            <form>
                            <span class="span-4">
                                <input class="span-4" type="date" name="date">
@@ -44,7 +44,7 @@
                        </span>
                    </span>
                    <span class="span-14 last dingdanzhuangtai">
-                       <span class="span-2">订单状态：</span>
+                       <span class="span-3">订单状态：</span>
                        <select class="span-2 last">
                            <option>已支付</option>
                            <option>未支付</option>

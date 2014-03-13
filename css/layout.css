@@ -662,3 +662,24 @@ h1,h2.news-name-title{
     line-height: 2em;
     font-size: 1.2em;
 }
+.yumingxiangqing-tr tr{
+    border-bottom: dotted 1px #a3b5c7;
+
+}
+.yumingxiangqing-td{
+    text-align: right;
+    height: 20px;
+    font-weight: 900;
+}
+.yumingxiangqing-td1{
+    text-align: left;
+    height: 20px;
+}
+
+.yuming-td2 tr{
+    border-bottom: 1px #ededed solid;
+
+}
+.yuming-td2 tr td{
+    height: 1.5em;
+}
