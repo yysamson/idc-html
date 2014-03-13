@@ -715,3 +715,11 @@ h1,h2.news-name-title{
 .help-menue-content-title1 a{
    margin-right: 20px;
 }
+.zaixian-help-title{
+    border-bottom: 1px #dedede solid;
+    font-size: 1.2em;
+}
+.zaixian-help-title1{
+    font-size: 1.6em;
+    font-weight: 900;
+}
