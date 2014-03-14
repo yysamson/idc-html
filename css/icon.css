@@ -2,7 +2,10 @@
     background-repeat: no-repeat;
     background-position: left center;
 }
-
+.icon-bj{
+    background-repeat: no-repeat;
+    background-position: top center;
+}
 .icon-top{
     background-repeat: no-repeat;
     background-position: top center;
@@ -26,6 +29,10 @@
     font-weight: 900;
     line-height: 36px;
     display: block;
+}
+.icon-login{
+    background-image: url(icon/icon-bj.jpg);
+    height: 330px;
 }
 
 .icon-step.active{
@@ -63,4 +70,7 @@
 }
 .icon-help-content7{
     background-image:url(icon/icon-help7.jpg);
+}
+.icon-ok{
+    background-image:url(icon/icon-ok.jpg);
 }

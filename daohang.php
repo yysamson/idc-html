@@ -4,7 +4,7 @@
             <li><a href="news.php" target="_blank">新闻列表页面 </a></li>
             <li><a href="news-xiangqing.php" target="_blank">新闻详细页面</a></li>
             <li><a href="yuming.php" target="_blank">域名查询页面</a></li>
-            <li><a href="register.php" target="_blank">会员登录页面</a></li>
+            <li><a href="register.php" target="_blank">会员注册页面</a></li>
             <li><a href="product-detal.php" target="_blank">产品展示页面</a></li>
             <li><a href="product-show.php" target="_blank">产品详情页面</a></li>
             <li><a href="mail.php" target="_blank">邮箱产品首页</a></li>
@@ -17,6 +17,7 @@
             <li><a href="zaixianbangzhu.php" target="_blank">在线帮助</a></li>
             <li><a href="bangzhuliebiao.php" target="_blank">在线帮助问题列表</a></li>
             <li><a href="help-xiangqing.php" target="_blank">在线帮助问题详情页</a></li>
+            <li><a href="huiyuandenglu.php" target="_blank">会员登录</a></li>
         </ul>
     </div>
 <?php include 'footer.php' ?>

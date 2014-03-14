@@ -741,3 +741,46 @@ h1,h2.news-name-title{
     border-bottom: 1px #e6e6e6 solid;
     margin-bottom: 10px;
 }
+
+.user-login {
+    margin: 0 auto;
+    float: none;
+    padding: 60px 0;
+
+}
+.user-login-login{
+    margin-top: 15px;
+}
+.user-login-login label{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 2.5em;
+
+}
+.user-login-login input{
+    line-height: 2.1em;
+}
+.user-login-login span{
+    padding-left: 5px;
+    line-height: 2.5em;
+    text-align: left;
+}
+
+.user-yanzheng{
+    margin-bottom: 30px;
+    padding: 30px 0;
+}
+.xiugai{
+    font-size: 2.4em;
+    padding-left: 60px;
+}
+.xiugai1{
+    font-size: 1.3em;
+    line-height: 2em;
+    padding-top: 1em;
+    text-align: center;
+}
+.xiugai1 a{
+    margin-right: 15px;
+}
