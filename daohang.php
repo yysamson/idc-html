@@ -16,6 +16,7 @@
             <li><a href="zhujiguanli.php" target="_blank">主机管理</a></li>
             <li><a href="zaixianbangzhu.php" target="_blank">在线帮助</a></li>
             <li><a href="bangzhuliebiao.php" target="_blank">在线帮助问题列表</a></li>
+            <li><a href="help-xiangqing.php" target="_blank">在线帮助问题详情页</a></li>
         </ul>
     </div>
 <?php include 'footer.php' ?>

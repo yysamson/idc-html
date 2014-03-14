@@ -41,11 +41,31 @@
         <div class="aside-help span-4">
             <ul class="side-menu-2">
                 <li class="header">问题分类</li>
-                <li><a>新闻中心</a></li>
-                <li><a>新闻中心</a></li>
-                <li><a>新闻中心</a></li>
-                <li><a>新闻中心</a></li>
             </ul>
+            <div class="span-4 help-xiangqing2 ">
+                <span class="span-4 help-xiangqing">分类1</span>
+                <span class="span-4 help-xiangqing1">
+                    <a>忘记密码</a><a>重设密码</a><a>会员登录</a>
+                </span>
+            </div>
+            <div class="span-4 help-xiangqing2 ">
+                <span class="span-4 help-xiangqing">分类2</span>
+                <span class="span-4 help-xiangqing1">
+                    <a>忘记密码</a><a>重设密码</a><a>会员登录</a>
+                </span>
+            </div>
+            <div class="span-4 help-xiangqing2 ">
+                <span class="span-4 help-xiangqing">分类3</span>
+                <span class="span-4 help-xiangqing1">
+                    <a>忘记密码</a><a>重设密码</a><a>会员登录</a>
+                </span>
+            </div>
+            <div class="span-4 help-xiangqing2 ">
+                <span class="span-4 help-xiangqing">分类4</span>
+                <span class="span-4 help-xiangqing1">
+                    <a>忘记密码</a><a>重设密码</a><a>会员登录</a>
+                </span>
+            </div>
         </div>
     </aside>
 </div>

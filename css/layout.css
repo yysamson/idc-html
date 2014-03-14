@@ -344,7 +344,11 @@ select{
 .aside-help{
     padding-left: 20px;
 }
+.aside-help ul{
+    padding: 0;
+    margin: 0;
 
+}
 .news-name{
     border-bottom: 2px #e6e6e6 solid;
 }
@@ -722,4 +726,18 @@ h1,h2.news-name-title{
 .zaixian-help-title1{
     font-size: 1.6em;
     font-weight: 900;
+}
+.help-xiangqing{
+    font-size: 1.2em;
+    line-height: 2em;
+    font-weight: 900;
+}
+.help-xiangqing1 a{
+    font-size:1em;
+    margin-right: 2px;
+    line-height: 2em;
+}
+.help-xiangqing2{
+    border-bottom: 1px #e6e6e6 solid;
+    margin-bottom: 10px;
 }
