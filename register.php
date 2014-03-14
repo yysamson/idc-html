@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
-    <div class="container bg-cl-white">
+    <div class="container user-yanzheng bg-cl-white">
         <div class="span-21 step-nav clearfix">
             <div class="span-7 step-item">
                 <span class="icon-top icon-step active">1</span>
@@ -54,5 +54,73 @@
                 </ul>
             </div>
         </aside>
+    </div>
+
+    <div class="container user-yanzheng bg-cl-white">
+        <div class="span-21 step-nav clearfix">
+            <div class="span-7 step-item">
+                <span class="icon-top icon-step">1</span>
+                <span>填写注册信息</span>
+            </div>
+            <div class="span-7 step-item">
+                <span class="icon-top icon-step active">2</span>
+                <span>验证账户信息</span>
+            </div>
+            <div class="span-7 step-item last">
+                <span class="icon-top icon-step">√</span>
+                <span>注册成功</span>
+            </div>
+        </div>
+        <main class="span-21 register">
+            <div class="span-17 prepend-4">
+                <span class="span-16 xiugai">注册信息填写完成，请验证邮箱激活帐号！</span>
+                <span class="span-16 xiugai1">
+                    验证信息已经发送到你帐号为    <a class="cl-blue-light">dawnlau@qq.com</a>的邮箱里，请在48小时内点击邮件里的链接，激活帐号。
+                </span>
+            </div>
+            <div class="fm-row span-17 last">
+                <label class="span-8">&nbsp;</label>
+                <a class="btn large span-8 last">立即登录邮箱</a>
+            </div>
+            <div class="span-8 prepend-8 last zhuce cl-gray">
+                <ul>
+                    <li class="header">没有收到激活邮件？</li>
+                    <li>1、请尝试到广告，垃圾邮件里找找看</li>
+                    <li>2、邮件地址写错了？请<a class="cl-blue-light">更换邮箱</a></li>
+                    <li>3、确认没有收到验证邮件，请<a class="cl-blue-light">重新发送验证邮件</a></li>
+                </ul>
+            </div>
+            <div class="span-8 prepend-8 last zhuce cl-gray">
+                <ul>
+                    <li class="header">没有收到激活邮件？</li>
+                    <li>1、请尝试到广告，垃圾邮件里找找看</li>
+                    <li>2、邮件地址写错了？请<a class="cl-blue-light">更换邮箱</a></li>
+                    <li>确认没有收到验证邮件，<span class="cl-red">50</span> 秒后可重新发送验证邮件</li>
+                </ul>
+            </div>
+        </main>
+    </div>
+
+    <div class="container user-yanzheng bg-cl-white">
+        <div class="span-21 step-nav clearfix">
+            <div class="span-7 step-item">
+                <span class="icon-top icon-step">1</span>
+                <span>填写注册信息</span>
+            </div>
+            <div class="span-7 step-item">
+                <span class="icon-top icon-step ">2</span>
+                <span>验证账户信息</span>
+            </div>
+            <div class="span-7 step-item last">
+                <span class="icon-top icon-step active">√</span>
+                <span>注册成功</span>
+            </div>
+        </div>
+        <main class="span-21 register">
+            <div class="span-13 prepend-8 ">
+                <span class="span-17 xiugai icon icon-ok">恭喜您 注册成功！</span>
+                <span class="span-7 xiugai1 "><a class="cl-blue-light">完善个人资料</a>    <a class="cl-blue-light">进入网站首页</a></span>
+            </div>
+        </main>
     </div>
 <?php include 'footer.php' ?>

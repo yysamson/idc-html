@@ -774,13 +774,28 @@ h1,h2.news-name-title{
 .xiugai{
     font-size: 2.4em;
     padding-left: 60px;
+
 }
 .xiugai1{
-    font-size: 1.3em;
     line-height: 2em;
     padding-top: 1em;
     text-align: center;
 }
 .xiugai1 a{
-    margin-right: 15px;
+    margin: 0 0.5em;
+    font-size: 1.3em;
+}
+.zhuce ul{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.zhuce ul li{
+    padding: 0;
+    margin: 0;
+    line-height: 2em;
+}
+.zhuce .header{
+    font-size: 1.2em;
 }
