@@ -17,7 +17,7 @@
                   <div class="help-menue-content span-17 prepend-1 icon icon-help-content">
                      <span class="help-menue-content-title span-17">会员类</span>
                      <span class="span-16 help-menue-content-title1">
-                         <a>会员注册</a>  <a>会员注册</a>  <a>会员注册</a>  <a>会员注册</a><a>会员注册</a><a>会员注册</a><a>会员注册</a><a>会员注册</a>
+                         <a>会员注册</a>  <a>会员注册</a>  <a>会员注册</a>  <a>会员注册</a><a>会员注册</a><a>会员注册</a><a>会员注册</a><a>会员注册</a><a>会员注册</a>
                      </span>
                   </div>
                   <div class="help-menue-content span-17 prepend-1 icon icon-help-content1">

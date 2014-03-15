@@ -376,7 +376,7 @@ h1,h2.news-name-title{
 
 }
 .news-date{
-    font-size: 0.5em;
+    font-size: 0.8em;
 
 }
 .news-page{
@@ -709,7 +709,7 @@ h1,h2.news-name-title{
 
 }
 .help-menue-content-title{
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 900;
 }
 .help-menue-content-title1{
@@ -717,7 +717,7 @@ h1,h2.news-name-title{
     margin-bottom: 5px;
 }
 .help-menue-content-title1 a{
-   margin-right: 20px;
+   margin-right: 10px;
 }
 .zaixian-help-title{
     border-bottom: 1px #dedede solid;
@@ -822,4 +822,14 @@ h1,h2.news-name-title{
     margin-top: 30px;
     text-align: right;
     line-height: 3em;
+}
+
+.feedback{
+    border-bottom: 1px #ddd solid;
+    margin-top: 10px;
+}
+
+.feedback-huifu{
+    font-size: 0.8em;
+    line-height: 1.9em;
 }
