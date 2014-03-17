@@ -20,6 +20,7 @@
             <li><a href="huiyuandenglu.php" target="_blank">会员登录</a></li>
             <li><a href="gouwuche.php" target="_blank">购物车</a></li>
             <li><a href="yijianfankui.php" target="_blank">意见反馈</a></li>
+            <li><a href="fukuan.php" target="_blank">付款页面</a></li>
         </ul>
     </div>
 <?php include 'footer.php' ?>

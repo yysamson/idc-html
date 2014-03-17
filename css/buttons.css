@@ -12,6 +12,18 @@
     text-align: center;
     cursor: pointer;
 }
+.btn-no{
+    font-family: "微软雅黑";;
+    background-color: #666;
+    border: 0;
+    color: #fff;
+    line-height: 2.5em;
+    font-size: 1.6em;
+    padding: 0 1em;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
 
 .btn.large{
     font-size: 1.6em;
