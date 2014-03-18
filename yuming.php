@@ -30,7 +30,7 @@
                       <span class="cl-red jiage">48元</span>
                   </span>
                 </div>
-                <div class="chaxun-2">
+                <div class="span-16">
                     <form>
                         <div class="span-16 bg-cl-gray">
                             <input class="span-12 chaxun-input-1" type="text">

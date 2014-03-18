@@ -30,13 +30,13 @@
                 </div>
                 <div class="news-page span-13 prepend-2">
                     <ul id="icons" class="ui-widget ui-helper-clearfix">
-                       <li class="ui-state-default ui-corner-all left" title=".ui-icon-seek-first"><span class="ui-icon ui-icon-seek-first"></span></li>
-                        <li class="ui-state-default ui-corner-all left" title=".ui-icon-carat-1-w"><span class="ui-icon ui-icon-carat-1-w"></span></li>
+                       <li class="ui-state-default ui-corner-all left" ><span class="ui-icon ui-icon-seek-first"></span></li>
+                        <li class="ui-state-default ui-corner-all left"><span class="ui-icon ui-icon-carat-1-w"></span></li>
                         <li class="new-page-number left">1</li>
                         <li class="new-page-number left">2</li>
                         <li class="new-page-number left">3</li>
-                        <li class="ui-state-default ui-corner-all left" title=".ui-icon-carat-1-e"><span class="ui-icon ui-icon-carat-1-e"></span></li>
-                        <li class="ui-state-default ui-corner-all left" title=".ui-icon-seek-end"><span class="ui-icon ui-icon-seek-end"></span></li>
+                        <li class="ui-state-default ui-corner-all left"><span class="ui-icon ui-icon-carat-1-e"></span></li>
+                        <li class="ui-state-default ui-corner-all left"><span class="ui-icon ui-icon-seek-end"></span></li>
                     </ul>
                 </div>
             </article>

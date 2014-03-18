@@ -47,10 +47,10 @@
                 <h2 class="news-name-title span-6 last">代理资格</h2>
                 <div class="span-6 last daili-zige">
                     <ul>
-                        <li>1、成为代理资格的条件和</li>
-                        <li>2、成为代理资格的条件和介绍夺</li>
-                        <li>3、成为代理资格的条件和介绍魂牵</li>
-                        <li>4、成为代理资格的条件和介绍</li>
+                        <li><a>1、成为代理资格的条件和</li></a>
+                        <li><a>2、成为代理资格的条件和介绍夺</li></a>
+                        <li><a>3、成为代理资格的条件和介绍魂牵</li></a>
+                        <li><a>4、成为代理资格的条件和介绍</li></a>
                     </ul>
 
                 </div>

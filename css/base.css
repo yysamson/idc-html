@@ -80,6 +80,10 @@ footer .header {
     border-bottom: 1px #e9e7e7 solid;
 }
 
+.sousuo-1 select{
+    border: 1px #ccc solid;
+}
+
 table{
     table-layout:fixed;
     empty-cells:show;

@@ -13,7 +13,7 @@
                 <li> 独立网页空间： 1.5G（含数据库空间)</li>
                 <li><a class="cl-blue-light">查看详细></a></li>
             </ul>
-            <select class="span-4 xiangqing-jiage cl-red">
+            <select class="span-4 cl-red">
                 <option>1年48.00元</option>
                 <option>1年48.00元</option>
                 <option>1年48.00元</option>
