@@ -83,3 +83,7 @@
 .icon-tishi{
     background-image:url(icon/tishi.jpg);
 }
+.icon-cp{
+    background-image:url(icon/ico-cp.jpg );
+    padding-left: 12px;
+}
