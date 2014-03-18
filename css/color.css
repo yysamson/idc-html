@@ -24,6 +24,10 @@ bg-cl-
     color: #3692d2;
 }
 
+.cl-green{
+    color: #008000;
+}
+
 .bg-cl-white {
     background-color: #fff;
 }
@@ -39,8 +43,8 @@ bg-cl-
 .bg-cl-green-light{
     background-color: #d5f0c8;
 }
-
-.cl-green{
-    color: #008000;
+.bg-clgreen{
+    background-color: #68ad19;
 }
+
 

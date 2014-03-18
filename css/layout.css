@@ -641,6 +641,10 @@ h1,h2.news-name-title{
     line-height: 3em;
     font-size: 1.2em;
 }
+.dingdanzhuangtai select{
+    padding: 2px 0;
+    border: 1px #ccc solid;
+}
 
 .xiadan-time{
     padding-top: 25px;
@@ -837,4 +841,23 @@ h1,h2.news-name-title{
 .feedback-huifu{
     font-size: 0.8em;
     line-height: 1.9em;
+}
+
+
+#datepicker{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
+#datepicker1{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
+
+.ui-datepicker-next{
+    background-color: #fff;
+}
+.ui-datepicker-prev{
+    background-color: #fff;
 }

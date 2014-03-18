@@ -54,5 +54,11 @@
         <p>Copyright © 2005-2014 三木森网络 All Rights Reserved</p>
     </div>
 </footer>
+<script>
+    $(function() {
+        $( "#datepicker" ).datepicker();
+        $( "#datepicker1" ).datepicker();
+    });
+</script>
 </body>
 </html>
