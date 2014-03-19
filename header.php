@@ -48,7 +48,7 @@
                 <div class="main-menu right clear">
                     <a>首页</a>
                     <a>域名注册</a>
-                    <a class="active">VPS服务器</a>
+                    <a class="active1">VPS服务器</a>
                     <a>网站空间</a>
                     <a>网站建设</a>
                     <a>企业邮箱</a>

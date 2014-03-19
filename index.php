@@ -21,7 +21,7 @@
             </div>
             <div class="span-16">
                 <form>
-                    <div class="span-15 bg-cl-gray">
+                    <div class="span-15 bg-cl-gray jiajia">
                         <input class="span-11 chaxun-input-1" type="text">
                         <button class="span-3 last btn tijiao">查询</button>
                     </div>
@@ -58,17 +58,19 @@
             </div>
         </div>
         <aside class="span-8 last" >
-            <div class="aside-help span-7">
+            <div class="prepend-1 span-7">
                 <ul class="side-menu-2">
-                    <li class="header">新闻公告<a class="right news-date1 cl-gray">更多>></a></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-                    <li><a>新闻中心新闻中心新闻中心新闻中心</a> <span class="right news-date cl-gray">03-18</span></li>
-
+                    <li class="header span-7"><span class="span-5">新闻公告</span><a class="right news-date1 cl-gray span-2 last">更多>></a></li>
+                    <li class="span-7">
+                        <span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span>
+                        <span class="right news-date span-2 last cl-gray">03-18</span>
+                    </li>
+                    <li class="span-7"><span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span> <span class="right news-date span-2 last cl-gray">03-18</span></li>
+                    <li class="span-7"><span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span> <span class="right news-date span-2 last cl-gray">03-18</span></li>
+                    <li class="span-7"><span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span> <span class="right news-date span-2 last cl-gray">03-18</span></li>
+                    <li class="span-7"><span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span> <span class="right news-date span-2 last cl-gray">03-18</span></li>
+                    <li class="span-7"><span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span> <span class="right news-date span-2 last cl-gray">03-18</span></li>
+                    <li class="span-7"><span class="span-5"><a>新闻中心新闻中心新闻中心新闻</a></span> <span class="right news-date span-2 last cl-gray">03-18</span></li>
                 </ul>
             </div>
         </aside>
@@ -140,13 +142,13 @@
 
 <div class="bg-cl-white index-main">
     <div class="container">
-        <div class="link span-24">
+        <div class="link span-23">
                 <div class="left"><a><img src="css/icon/pro.jpg"></a></div>
-                <div class="span-23 link-img">
+                <div class="span-21 link-img text-center">
                     <img src="images/link.jpg"><img src="images/link.jpg">
                     <img src="images/link.jpg"><img src="images/link.jpg">
                     <img src="images/link.jpg"><img src="images/link.jpg">
-                    <img src="images/link.jpg"><img src="images/link.jpg">
+                    <img src="images/link.jpg">
                 </div>
                 <div class="right"><a><img src="css/icon/next.jpg"></a></div>
         </div>

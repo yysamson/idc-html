@@ -26,10 +26,11 @@
     margin-left: 1em;
 }
 
-.main-menu a.active {
+.main-menu a.active1 {
     color: #69ad19;
     border-bottom: 2px #69ad19 solid;
     padding-bottom: 0.3em;
+    line-height: 2em;
 }
 
 .side-menu-1,
@@ -150,6 +151,15 @@
     margin-bottom: 80px;
 }
 
+._step-nav {
+    margin: 0 auto;
+    /*background-color: #ccc;*/
+    float: none;
+    border-bottom: 2px #bbbbbb solid;
+    padding-top: 60px;
+    margin-bottom: 80px;
+}
+
 .step-item {
     font-size: 1.2em;
     margin-bottom: -38px;
@@ -191,12 +201,15 @@ input.chaxun-input-1{
     padding: 1em 0.5em;
 }
 button.tijiao{
-    margin-top: 10px;
-    padding: 2px 1em;
-    line-height: 39px;
+    margin-top: 9px;
+    padding: 2px 12px;
+    height: 2.5em;
     font-size: 1.5em;
 }
-
+.jiajia{
+    padding-top: 10px;
+    height: 6em
+}
 .remen{
     margin: 20px 0;
 }
@@ -351,6 +364,7 @@ select{
 }
 .aside-help{
     padding-left: 20px;
+    padding-top: 10px;
 }
 .aside-help ul{
     padding: 0;
@@ -386,12 +400,14 @@ h1,h2.news-name-title{
     font-size: 0.7em;
     border: 0;
     color: #999;
+    text-align: right;
 
 }
 .news-date{
-    font-size: 1em;
+    font-size: 0.9em;
     border: 0;
     color: #999;
+    text-align: right;
 
 }
 
@@ -880,6 +896,7 @@ h1,h2.news-name-title{
 .index-main{
     padding-top: 25px;
     padding-bottom: 25px;
+
 }
 .index-cp-shuoming ul{
     margin: 0;
@@ -901,7 +918,7 @@ h1,h2.news-name-title{
 .link{
     border: 1px #e8e8e8 solid;
     background-color: #fafafa;
-    padding: 15px 10px;
+    padding: 15px;
     height: 2em;
 }
 .link ul{
@@ -915,7 +932,7 @@ h1,h2.news-name-title{
 
 }
 .link-img img{
-    margin-left: 14px;
+    margin-left: 15px;
 }
 
 .index-link ul{
@@ -926,7 +943,7 @@ h1,h2.news-name-title{
 .index-link ul li{
     padding: 0;
     float: left;
-    margin-left: 3px;
+    margin-left: 2px;
     line-height: 2em;
 }
 .index-main h4{

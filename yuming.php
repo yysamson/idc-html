@@ -32,7 +32,7 @@
                 </div>
                 <div class="span-16">
                     <form>
-                        <div class="span-16 bg-cl-gray">
+                        <div class="span-16 bg-cl-gray jiajia">
                             <input class="span-12 chaxun-input-1" type="text">
                             <button class="span-3 last btn tijiao">查询</button>
                         </div>

@@ -25,6 +25,7 @@ header {
 header .border-bottom-shadow{
     display: block;
     height: 10px;
+    overflow:hidden;
     background-image: url(../images/head-bj.jpg);
 }
 
