@@ -4,7 +4,7 @@
         <div class="xiangqing span-18">
             <div class="span-18 zaixian-help">
                 <form>
-                    <div class="span-18 bg-cl-gray">
+                    <div class="span-18 bg-cl-gray jiajia">
                         <input class="span-14 chaxun-input-1" type="text">
                         <button class="span-3 last btn tijiao">查询</button>
                     </div>
@@ -14,11 +14,26 @@
                 <div class="span-18">
                     <div class="news-body span-17">
                         <ul>
-                            <li><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a><span class="news-date cl-gray right">2011/10/10 14:42:05</span></li>
-                            <li><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a><span class="news-date cl-gray right">2011/10/10 14:42:05</span></li>
-                            <li><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a><span class="news-date cl-gray right">2011/10/10 14:42:05</span></li>
-                            <li><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a><span class="news-date cl-gray right">2011/10/10 14:42:05</span></li>
-                            <li><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a><span class="news-date cl-gray right">2011/10/10 14:42:05</span></li>
+                            <li class="span-17">
+                                <span class="span-13"><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a></span>
+                                <span class="news-date cl-gray right span-4 last">2011/10/10 14:42:05</span>
+                            </li>
+                            <li class="span-17">
+                                <span class="span-13"><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a></span>
+                                <span class="news-date cl-gray right span-4 last">2011/10/10 14:42:05</span>
+                            </li>
+                            <li class="span-17">
+                                <span class="span-13"><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a></span>
+                                <span class="news-date cl-gray right span-4 last">2011/10/10 14:42:05</span>
+                            </li>
+                            <li class="span-17">
+                                <span class="span-13"><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a></span>
+                                <span class="news-date cl-gray right span-4 last">2011/10/10 14:42:05</span>
+                            </li>
+                            <li class="span-17">
+                                <span class="span-13"><a> 我的网站出现违法信息了，但网站不是我做的，我不太会删除</a></span>
+                                <span class="news-date cl-gray right span-4 last">2011/10/10 14:42:05</span>
+                            </li>
                         </ul>
                     </div>
                     <div class="news-page span-13 prepend-2">

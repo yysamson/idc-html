@@ -4,7 +4,7 @@
       <div class="xiangqing span-18">
           <div class="span-18 zaixian-help">
               <form>
-                  <div class="span-18 bg-cl-gray">
+                  <div class="span-18 bg-cl-gray jiajia">
                       <input class="span-14 chaxun-input-1" type="text">
                       <button class="span-3 last btn tijiao">查询</button>
                   </div>
