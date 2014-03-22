@@ -23,6 +23,7 @@
     <![endif]-->
     <title>新闻详细页</title>
 </head>
+<script language="javascript" src="http://code.54kefu.net/kefu/js/49/626249.js" charset="utf-8"></script>
 <body>
 <header class="header-wrap">
     <div class="top-menu bg-cl-gray-light">
