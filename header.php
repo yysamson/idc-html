@@ -30,6 +30,9 @@
         <div class="container">
             <span class="left">欢迎光临访问三木森IDC官方网站</span>
             <span class="right">
+                <a class="cl-gray">关于我们</a>
+                <a class="cl-gray">联系我们</a>
+                <a class="cl-gray">建议反馈</a>
                 <a class="cl-gray">用户中心</a>
                 <a class="cl-gray">在线帮助</a>
                 <a>|</a>
