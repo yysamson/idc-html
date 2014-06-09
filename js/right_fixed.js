@@ -39,12 +39,13 @@
         },
         initadd:function(){
             $("#tt").click(function(){
+                var url=window.location.href;
                 var ctrl=(navigator.userAgent.toLowerCase()).indexOf('mac')!=-1?'Command/Cmd': 'CTRL';
                 if(document.all){
-                    window.external.addFavorite('http://idc.yysamson.com/', '三木森网络');
+                    window.external.addFavorite(url, '三木森网络');
                 }
                 else if(window.sidebar){
-                    window.sidebar.addPanel('三木森网络 ', 'http://idc.yysamson.com/', "");
+                    window.sidebar.addPanel('三木森网络 ',url, "");
                 }
                 else{
                     alert('您可以通过快捷键' + ctrl + ' + D 加入到收藏夹');
