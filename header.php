@@ -69,11 +69,12 @@
         <span class="_close"></span>
         <img src="images/QQ_logo.png">
     </div>
-<div class="_box">    <div class="attention">
+<div class="_box">
+    <div class="attention">
         <div class="add">
             <img src="images/add.png">
         </div>
-        <p class="tt">关&nbsp;注</p>
+        <p class="tt" id="tt">关&nbsp;注</p>
     </div>
     <div class="log tt">我们很期待您的咨询 ！谢谢 ！</div>
     <div class="attention bd">
