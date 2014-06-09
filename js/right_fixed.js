@@ -14,6 +14,7 @@
             return _function.apply(_object || window, _argc);
         };
     };
+
     var page = {
         init: function () {
             this.initclick();
