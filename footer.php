@@ -60,5 +60,6 @@
         $( "#datepicker1" ).datepicker();
     });
 </script>
+<script src="./js/right_fixed.js"></script>
 </body>
 </html>

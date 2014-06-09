@@ -23,7 +23,7 @@
     <![endif]-->
     <title>新闻详细页</title>
 </head>
-<script language="javascript" src="http://code.54kefu.net/kefu/js/49/626249.js" charset="utf-8"></script>
+<!--<script language="javascript" src="http://code.54kefu.net/kefu/js/49/626249.js" charset="utf-8"></script>-->
 <body>
 <header class="header-wrap">
     <div class="top-menu bg-cl-gray-light">
@@ -64,3 +64,28 @@
     </div>
     <div class="border-bottom-shadow"></div>
 </header>
+<div class="qq">
+    <div class="show">
+        <span class="_close"></span>
+        <img src="images/QQ_logo.png">
+    </div>
+<div class="_box">    <div class="attention">
+        <div class="add">
+            <img src="images/add.png">
+        </div>
+        <p class="tt">关&nbsp;注</p>
+    </div>
+    <div class="log tt">我们很期待您的咨询 ！谢谢 ！</div>
+    <div class="attention bd">
+        <div class="add">
+            <img src="images/qq.png">
+        </div>
+        <p class="tt">售前客服</p>
+    </div>
+    <div class="attention bd">
+        <div class="add">
+            <img src="images/qq.png">
+        </div>
+        <p class="tt">售后客服</p>
+    </div></div>
+</div>

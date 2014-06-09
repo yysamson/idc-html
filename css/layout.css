@@ -957,3 +957,74 @@ h1,h2.news-name-title{
     font-size: 1.2em;
     font-weight: 100;
 }
+.qq {
+    width:212px;
+    position: fixed;
+    top:296px;
+    right:15px;
+    z-index: 100000;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid#c7c7c7;
+}
+.qq .show{
+    position: relative;
+}
+.qq .show ._close{
+    position: absolute;
+    right: 3px;
+    top: 9px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.qq .show img{
+    width: 212px;
+    border-radius: 5px;
+}
+.attention{
+    width: 180px;
+    height: 40px;
+    background-color: #9abc00;
+    margin: 0 auto;
+    border-radius: 5px;
+    position: relative;
+}
+.attention:hover{
+    background-color: #80ab00;
+    cursor: pointer;
+}
+.attention .add{
+    position: absolute;
+    left: 34px;
+    top: 6px;
+}
+.qq .tt{
+    font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu  ;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+}
+.qq .log{
+    background-color: #ff6300;
+    width: 180px;
+    height: 30px;
+    margin: 10px auto;
+    line-height: 30px;
+    font-size: 12px;
+}
+.qq .bd{
+    background-color: #f2f2f2;
+    margin-bottom: 5px;
+}
+.qq .bd .tt{
+    color:#8b8b8b;
+}
+.qq .bd .add{
+    left: 4px;
+    top: 3px;
+}
+._hide{
+    display: none;
+}
