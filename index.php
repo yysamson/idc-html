@@ -1,6 +1,25 @@
 <?php include 'header.php' ?>
 <div class="bg-clgreen banner">
-    <div class="container"><img src="images/banner.jpg"/> </div>
+    <div class="container">
+        <img src="images/banner.png"/>
+        <div class="content_first content">
+            <p class="tt">4亿人都在用手机浏览网页，您的手机网站准备好了吗？</p>
+            <p class="bd">据有关机构统计，中国5.38亿网民中，78%在使用手机上网.而传统网站在手机上打开太大、速度慢、导航复杂等糟糕的手机浏览体验会导致79%的用户流失。</p>
+            <p class="Btn"><a href="yuming.php" target="_blank">现在就去定做</a></p>
+
+
+        </div>
+    </div>
+    <div class="container hide">
+        <img src="images/banner_b.png"/>
+        <div class="content_second content">
+            <p class="tt">域名注册  国际域名查询</p>
+            <p class="bd">域名管理功能:<br/>实时注册，实时生效   支持中/英文域名解析设置记录快速生效    拥有域名全部管理权限可视化域名管理系统   支持更多二级域名绑定域名转发高级功能...</p>
+            <p class="Btn"><a href="http://wei.yysamson.com/" target="_blank">现在就去注册/查询</a></p>
+        </div>
+    </div>
+    <div class="prev"><img src="images/prev.png"></div>
+    <div class="next"><img src="images/next.png"></div>
 </div>
 <div class="bg-cl-white index-main">
     <div class="container">

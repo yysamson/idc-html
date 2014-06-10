@@ -46,6 +46,9 @@ bg-cl-
 }
 .bg-clgreen{
     background-color: #68ad19;
+    position: relative;
+    overflow: hidden;
+    height: 410px;
 }
 
 

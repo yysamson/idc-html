@@ -1025,6 +1025,64 @@ h1,h2.news-name-title{
     left: 4px;
     top: 3px;
 }
-._hide{
+.hide {
     display: none;
+}
+.bg-clgreen .container{
+    position: relative;
+    font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+    overflow: hidden;
+}
+.bg-clgreen .prev{
+    position: absolute;
+    top: 209px;
+    left: 50px;
+    opacity: 0;
+    cursor: pointer;
+}
+.bg-clgreen .next{
+    position: absolute;
+    top: 209px;
+    right: 50px;
+    opacity: 0;
+    cursor: pointer;
+}
+.bg-clgreen .content_first{
+    position: absolute;
+    right: 142px;
+    top:95px;
+    color: #ffffff;
+    width: 378px;
+    cursor: pointer;
+}
+.bg-clgreen .content_second{
+    position: absolute;
+    left: 14px;
+    top:95px;
+    color: #ffffff;
+    width: 378px;
+    cursor: pointer;
+}
+.bg-clgreen .tt{
+    font-size: 30px;
+    margin: 0 0;
+}
+.bg-clgreen .bd{
+    font-size: 14px;
+    line-height: 24px;
+}
+.bg-clgreen .Btn{
+    padding: 0 0;
+    background-color: #ffffff;
+    border: 7px solid#77b530;
+    color: #68ad19;
+    width: 157px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.bg-clgreen .Btn a{
+    color: #68ad19;
 }
