@@ -88,7 +88,7 @@
                 stop()
             });
             $(".content,.prev,.next").on("mouseleave",function(){
-                setTimeout(time,0);
+                setTimeout(time,4000);
             });
             $(".banner,.prev,.next").on("mouseover",function(){
                 $(".prev,.next").animate({opacity : 0.9}, 550);
