@@ -10,14 +10,14 @@
 
         </div>
     </div>
-    <div class="container hide">
+    <div class="main"><div class="container hide">
         <img src="images/banner_b.png"/>
         <div class="content_second content">
             <p class="tt">域名注册  国际域名查询</p>
             <p class="bd">域名管理功能:<br/>实时注册，实时生效   支持中/英文域名解析设置记录快速生效    拥有域名全部管理权限可视化域名管理系统   支持更多二级域名绑定域名转发高级功能...</p>
             <p class="Btn"><a href="http://wei.yysamson.com/" target="_blank">现在就去注册/查询</a></p>
         </div>
-    </div>
+    </div></div>
     <div class="prev"><img src="images/prev.png"></div>
     <div class="next"><img src="images/next.png"></div>
 </div>

@@ -57,13 +57,13 @@
         initBanner:function(){
             var container= $(".banner .container"),first= $(".banner .content_first"),second=$(".banner .content_second");
             var i=0;
-            container.eq(1).css("margin-left","-950px");
+            container.eq(1).css("margin-left","-59.375em");
             second.css("top","-215px");
             function banner(){
                 container.hide();
                 i++;
                 if(i%2==0){
-                    container.eq(1).show().animate({marginLeft : 240}, 2000);
+                    container.eq(1).show().animate({marginLeft :0}, 2000);
                     second.animate({top :95}, 2000);
                     container.eq(0).css("margin-top","-410px");
                     first.css("right","-378px");

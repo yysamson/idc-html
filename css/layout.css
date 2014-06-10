@@ -1086,3 +1086,8 @@ h1,h2.news-name-title{
 .bg-clgreen .Btn a{
     color: #68ad19;
 }
+.bg-clgreen .main{
+    width: 950px;
+    height: 410px;
+    margin: 0 auto;
+}
