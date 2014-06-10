@@ -77,9 +77,15 @@
             function time(){
                 t=setInterval(banner,4000);
             };
+            function stop(){
+                window.clearInterval(t);
+                container.hide();
+                container.eq(0).show().animate({marginTop :0}, 2000);
+                first.animate({right :142}, 2000);
+            }
             setTimeout(time,0);
             $(".content").on("mouseenter",function(){
-                window.clearInterval(t);
+                stop()
             });
             $(".content,.prev,.next").on("mouseleave",function(){
                 setTimeout(time,0);
@@ -91,7 +97,7 @@
                 $(".prev,.next").animate({opacity : 0}, 550);
             });
             $(".prev,.next").on("click",function(){
-                window.clearInterval(t);
+                stop()
                 banner();
             });
         }
