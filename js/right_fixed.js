@@ -36,7 +36,7 @@
             });
             $(".qq .show img").on("click",function(){
                 $(".qq ._box").slideDown(1000);
-                $(".qq .show").css("cursor","auto");
+                $(".qq .show").css("cursor","move");
             });
         },
         initAdd:function(){
@@ -67,39 +67,49 @@
                     second.animate({top :95}, 2000);
                     container.eq(0).css("margin-top","-410px");
                     first.css("right","-378px");
+
                 }else{
                     container.eq(0).show().animate({marginTop :0}, 2000);
                     first.animate({right :142}, 2000);
                     container.eq(1).css("margin-left","-950px");
                     second.css("top","-215px");
+
                 }
             };
+//            var a=0;
             function time(){
-                t=setInterval(banner,4000);
+                t=setInterval(banner,6000);
+//                console.log(a++);
             };
             function stop(){
                 window.clearInterval(t);
-                container.hide();
-                container.eq(0).show().animate({marginTop :0}, 2000);
-                first.animate({right :142}, 2000);
+//                console.log(a);
+//                container.hide();
+//                container.eq(0).show().animate({marginTop :0}, 2000);
+//                first.animate({right :142}, 2000);
             }
-            setTimeout(time,0);
+            setTimeout(time,100);
             $(".content").on("mouseenter",function(){
-                stop()
+                stop();
             });
-            $(".content,.prev,.next").on("mouseleave",function(){
-                setTimeout(time,4000);
+            $(".content").on("mouseleave",function(){
+                stop();
+                setTimeout(time,100);
             });
-            $(".banner,.prev,.next").on("mouseover",function(){
-                $(".prev,.next").animate({opacity : 0.9}, 550);
-            });
-            $(".banner").on("mouseout",function(){
-                $(".prev,.next").animate({opacity : 0}, 550);
-            });
-            $(".prev,.next").on("click",function(){
-                stop()
-                banner();
-            });
+//            $(".banner,.prev,.next").on("mouseover",function(){
+//                $(".prev,.next").animate({opacity : 0.9}, 550);
+//            });
+//            $(".banner").on("mouseout",function(){
+//                $(".prev,.next").animate({opacity : 0}, 550);
+//            });
+//            $(".prev,.next").on("click",(function(){
+//                return function(){
+//                    stop();
+//                    banner();
+//                    time();
+//                };
+//            })()
+//            );
         }
     };
     page.init();

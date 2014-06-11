@@ -969,6 +969,7 @@ h1,h2.news-name-title{
 }
 .qq .show{
     position: relative;
+    cursor:move;
 }
 .qq .show ._close{
     position: absolute;
