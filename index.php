@@ -18,8 +18,8 @@
             <p class="Btn"><a href="http://wei.yysamson.com/" target="_blank">现在就去注册/查询</a></p>
         </div>
     </div></div>
-    <div class="prev"><img src="images/prev.png"></div>
-    <div class="next"><img src="images/next.png"></div>
+    <div class="prev _tab"><img src="images/prev.png"></div>
+    <div class="next _tab"><img src="images/next.png"></div>
 </div>
 <div class="bg-cl-white index-main">
     <div class="container">
