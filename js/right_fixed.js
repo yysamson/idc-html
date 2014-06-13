@@ -55,8 +55,7 @@
             });
         },
         initBanner:function(){
-            var container= $(".banner .container"),first= $(".banner .content_first"),second=$(".banner .content_second");
-            var i=0;
+            var container= $(".banner .container"),first= $(".banner .content_first"),second=$(".banner .content_second"),i=0;
             var banner_time;
             container.eq(1).css("margin-left","-59.375em");
             second.css("top","-215px");
