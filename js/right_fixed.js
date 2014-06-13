@@ -77,8 +77,10 @@
             };
             $('.banner').hover(function(){
                 clearInterval(banner_time);
+                $(".prev,.next").animate({opacity :0.9}, 1000);
             },function(){
                 banner_time=setInterval(banner,6000);
+                $(".prev,.next").animate({opacity :0}, 1000);
             }).trigger("mouseleave");
             $(".prev,.next").on("click",(function(){
                 return function(){

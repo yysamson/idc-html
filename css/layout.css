@@ -1038,14 +1038,14 @@ h1,h2.news-name-title{
     position: absolute;
     top: 209px;
     left: 50px;
-    opacity: 1;
+    opacity: 0;
     cursor: pointer;
 }
 .bg-clgreen .next{
     position: absolute;
     top: 209px;
     right: 50px;
-    opacity: 1;
+    opacity: 0;
     cursor: pointer;
 }
 .bg-clgreen .content_first{
